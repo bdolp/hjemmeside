@@ -1,0 +1,97 @@
+body{
+  background-color: #034211;
+  font-family: sans-serif;
+  }
+
+
+h1 {
+  text-align: center;
+  color: grey;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.profilbilde {
+width: 150px;
+border-radius: 50%;
+border-color: grey;
+border-width: 4px;
+border-style: solid;
+margin-top: 50px;
+margin-bottom: 50px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+h2 {
+  text-align: center;
+  color: black;
+font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+
+.bildevinter {
+  width: 1000px;
+  border-radius: 50%;
+    border-color: grey;
+    border-width: 4px;
+    border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+
+li {
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+h3 {
+  text-align: center;
+  color: black;
+font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.bildesommer {
+  width: 1000px;
+  border-radius: 30%;
+    border-color: grey;
+    border-width: 4px;
+    border-style:solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+margin-top: 30px;
+}
+
+p {
+  text-align: center;
+  color: black;
+  font-size: normal;
+}
+
+h4 {
+  text-align: left;
+  color: black;
+font-size: 17px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.minsign {
+  margin-top: 50px;
+  text-align: center;
+  color: Red;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 15px;
+}
